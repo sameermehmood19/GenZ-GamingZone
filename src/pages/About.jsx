@@ -2,7 +2,7 @@ function About() {
   return (
     <main className="page page-about">
       <header className="page-header">
-        <h1>About GameZone</h1>
+        <h1>About NexusArena</h1>
         <p>A dedicated space built for competitive and casual gamers.</p>
       </header>
 

@@ -10,9 +10,9 @@ function App() {
     <div className="app-shell">
       <header className="app-header">
         <div className="brand">
-          <div className="brand-mark">GZ</div>
+          <div className="brand-mark">N</div>
           <div className="brand-text">
-            <span className="brand-name">GameZone</span>
+            <span className="brand-name">NexusArena</span>
             <span className="brand-sub">Gaming arena &amp; lounge</span>
           </div>
         </div>
@@ -45,8 +45,8 @@ function App() {
       </Routes>
 
       <footer className="app-footer">
-        <p>© {new Date().getFullYear()} GameZone. All rights reserved.</p>
-        <p>Crafted for gamers. Built as a demo booking system.</p>
+        <p>© {new Date().getFullYear()} NexusArena. All rights reserved.</p>
+        {/* <p>Crafted for gamers. Built as a demo booking system.</p> */}
       </footer>
     </div>
   )

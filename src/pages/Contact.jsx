@@ -9,16 +9,16 @@ function Contact() {
       <section className="grid-2">
         <div className="card">
           <h2>Visit the arena</h2>
-          <p>GameZone HQ</p>
-          <p>123 Gaming Street</p>
-          <p>Esports City, 00000</p>
+          <p>NexusArena HQ</p>
+          <p>Under basement STP, shaheed chowk Kotli, AJK</p>
+          <p>Kotli City, Azad Kashmir 11100</p>
 
           <div className="contact-meta">
             <p>
-              <strong>Phone:</strong> +1 (555) 987-6543
+              <strong>Phone:</strong> +92 (300) 987-6543
             </p>
             <p>
-              <strong>Email:</strong> play@gamezone.gg
+              <strong>Email:</strong> nexusarena@NexusArena.com
             </p>
             <p>
               <strong>Hours:</strong> 24/7 (peak hours 6 PM – 1 AM)

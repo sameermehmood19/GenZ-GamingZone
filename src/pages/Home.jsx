@@ -5,7 +5,7 @@ function Home() {
     <main className="page page-home">
       <section className="hero">
         <div className="hero-content">
-          <p className="eyebrow">WELCOME TO GAMEZONE</p>
+          <p className="eyebrow">WELCOME TO NexusArena</p>
           <h1>Book your next gaming session in seconds.</h1>
           <p className="subtitle">
             High-end PCs, next‑gen consoles, and private rooms. Reserve your perfect slot and jump
